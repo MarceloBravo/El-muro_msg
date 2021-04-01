@@ -11,7 +11,7 @@ var user = null
 let totMensajes = 0;
 let totalLikes = 0;
 
-
+/*
 messaging.requestPermision().then(() => {
 	console.log('Ok');
 	return messaging.getToken();
@@ -32,6 +32,7 @@ messaging.oneTokenRefresh(()=>{
 		console.log(error);
 	});
 });
+*/
 
 
 
